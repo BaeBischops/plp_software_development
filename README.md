@@ -24,3 +24,10 @@ I am currently diving deep into:
   <li>Designing and implementing robust databases.</li>
 </ul>
 
+<h3>📂 Projects</h3>
+Project 1: ...
+<ul>
+  <li>🚀 Brief project description.</li>
+  <li>🛠️ Technologies used.</li>
+  <li>📁 Link to the project repository.</li>
+</ul>
