@@ -8,3 +8,10 @@ Hello there! 👋 I'm Asive, a passionate and dedicated student at PowerLearn Pr
   <li>💻 Eager to learn, collaborate, and contribute to the world of software development.</li>
   <li>🌍 Proudly representing Africa and excited to bring my unique perspective to the tech world.</li>
 </ul>
+
+<h3>🛠️ Skills</h3>
+<ul>
+  Web Technologies: HTML, CSS, JavaScript, React.js, Node.js
+  Python Programming: Python, Flask, Django
+  Database: SQL, MongoDB
+</ul>
