@@ -11,7 +11,7 @@ Hello there! 👋 I'm Asive, a passionate and dedicated student at PowerLearn Pr
 
 <h3>🛠️ Skills</h3>
 <ul>
-  Web Technologies: HTML, CSS, JavaScript, React.js, Node.js
-  Python Programming: Python, Flask, Django
-  Database: SQL, MongoDB
+  <li>Web Technologies: HTML, CSS, JavaScript, React.js, Node.js</li>
+  <li>Python Programming: Python, Flask, Django</li>
+  <li>Database: SQL, MongoDB</li>
 </ul>
