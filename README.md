@@ -15,3 +15,11 @@ Hello there! 👋 I'm Asive, a passionate and dedicated student at PowerLearn Pr
   <li>Python Programming: Python, Flask, Django</li>
   <li>Database: SQL, MongoDB</li>
 </ul>
+
+<h3>🌱 Current Learning Focus</h3>
+I am currently diving deep into:
+<ul>
+<li>Building dynamic and responsive web applications.</li>
+<li>Mastering Python for backend development.</li>
+<li>Designing and implementing robust databases.</li>
+</ul>
