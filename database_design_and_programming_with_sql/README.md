@@ -1,1 +1,0 @@
-<h1>Database Design & Programming with SQL<h1>
